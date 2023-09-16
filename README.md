@@ -10,4 +10,4 @@
 - [大规模子集选择的基准测试](https://github.com/HisaoLabSUSTC/BenchSS)
 - [检验External Archive Size对解集质量以及时间的影响](https://github.com/HisaoLabSUSTC/ArchiveSize)
 - [从大量解中移除支配解的二阶段方法](https://github.com/HisaoLabSUSTC/Two-Phase-Procedure-For-Removing-Dominated-Solutions)
-- [为$R_{2}^{HVC}$指标设计的方向向量选择方法](https://github.com/HisaoLabSUSTC/GAES)
+- [为R2HVC指标设计的方向向量选择方法](https://github.com/HisaoLabSUSTC/GAES)
